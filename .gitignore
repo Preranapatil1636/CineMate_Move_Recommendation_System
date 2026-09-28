@@ -1,0 +1,19 @@
+# Executables and Binaries
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# IDE & Editor Folders
+.vs/
+.vscode/
+.clion/
+*.user
+
+# Temporary Test Files
+scratch/
+test_input.txt
+*.log
